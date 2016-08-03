@@ -5,7 +5,6 @@ using System.IO;
 
 public class NewPicture : MonoBehaviour {
     public string url = Application.dataPath + "/snake.jpg"; //"c:/usc/home/smandler/Desktop/GitHub/usc_cave/snake.jpg";
-    private WWW ww;
     public GameObject ImageOnPanel;
 
     void Start()
@@ -15,7 +14,7 @@ public class NewPicture : MonoBehaviour {
       //  yield return ww;
        // StartGame();
         Button b = gameObject.GetComponent<Button>();
-        b.onClick.AddListener(delegate () { StartGame(); });
+        b.onClick.AddListener(delegate () { LoadPicture(); });
     }
 
     public static Texture2D LoadPNG(string filePath)
@@ -33,7 +32,7 @@ public class NewPicture : MonoBehaviour {
         return tex;
     }
 
-    public void StartGame()
+    public void LoadPicture()
     {
 
         RawImage image = (RawImage)ImageOnPanel.GetComponent<RawImage>();
