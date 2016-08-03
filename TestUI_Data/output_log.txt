@@ -1,0 +1,55 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K5200 (ID=0x103c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\getReal3D.dll (this message is harmless)
+Loading C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\getReal3D.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 59Hz; virtual: 7040x1440 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 1.414681 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+getReal3D.Input.cameras.Count = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to initialize GetReal3DPlugin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: C:\usc\home\smandler\Desktop\GitHub\usc_ui\TestUI_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 41b8 -> priority: 1 
+  Thread -> id: 3dcc -> priority: 1 
+  Thread -> id: 42b8 -> priority: 1 
+  Thread -> id: 2b4c -> priority: 1 
+  Thread -> id: 4158 -> priority: 1 
+  Thread -> id: 4300 -> priority: 1 
